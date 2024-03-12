@@ -28,8 +28,9 @@ class Program
         }
 
         using (WebClient wc = new WebClient())
-		{	
-            var json = wc.DownloadString("https://api.steampowered.com/ISteamApps/GetAppList/v0002/?format=json"); 
+	{	
+            var json = wc.DownloadString("https://api.steampowered.com/ISteamApps/GetAppList/v0002/?format=json");  // do listy gier 
+	    //var json = wc.DownloadString("https://store.steampowered.com/api/appdetails?appids=10"); //do detali gry 
             string pp = PrettyJSON(json);
             Console.WriteLine(pp); 
         }
