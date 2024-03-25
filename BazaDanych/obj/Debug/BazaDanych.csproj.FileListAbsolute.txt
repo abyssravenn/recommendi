@@ -1,0 +1,11 @@
+C:\Users\48660\Desktop\Projekt\BazaDanych\bin\Debug\Database.mdf
+C:\Users\48660\Desktop\Projekt\BazaDanych\bin\Debug\Database_log.ldf
+C:\Users\48660\Desktop\Projekt\BazaDanych\bin\Debug\BazaDanych.exe.config
+C:\Users\48660\Desktop\Projekt\BazaDanych\bin\Debug\BazaDanych.exe
+C:\Users\48660\Desktop\Projekt\BazaDanych\bin\Debug\BazaDanych.pdb
+C:\Users\48660\Desktop\Projekt\BazaDanych\obj\Debug\BazaDanych.csproj.AssemblyReference.cache
+C:\Users\48660\Desktop\Projekt\BazaDanych\obj\Debug\BazaDanych.Properties.Resources.resources
+C:\Users\48660\Desktop\Projekt\BazaDanych\obj\Debug\BazaDanych.csproj.GenerateResource.cache
+C:\Users\48660\Desktop\Projekt\BazaDanych\obj\Debug\BazaDanych.csproj.CoreCompileInputs.cache
+C:\Users\48660\Desktop\Projekt\BazaDanych\obj\Debug\BazaDanych.exe
+C:\Users\48660\Desktop\Projekt\BazaDanych\obj\Debug\BazaDanych.pdb
